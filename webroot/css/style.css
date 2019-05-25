@@ -1,0 +1,42 @@
+body{
+    background: url('/img/theme/background.jpg') repeat-y;
+    color:#fff;
+}
+
+.talent-active{
+	border: 3px solid gold !important;
+}
+.talent{
+	border: 3px solid transparent;
+}
+
+.heros-active{
+	border: 3px solid gold !important;
+}
+.heros{
+	border: 3px solid transparent;
+	text-align: center;
+}
+
+.modal{
+    color:#000;
+}
+
+span.nomdesc{
+	position: absolute;
+	color: #8783E6;
+	padding: 4px;
+	border: 1px solid #6769AA;
+	background-color: #130935;
+	z-index: 10;
+	max-width: 300px;
+	font-size: 0.7em;
+}
+
+div#img{
+	text-align: center;
+}
+
+.edit_talent{
+	margin-bottom: 2em;
+}
